@@ -57,7 +57,7 @@
     - - [ ] Newton's Square Root Method
     - - [ ] Number Theory
     - - [ ] Euclidean algorithm
-- [x] Space and Time Complexity Analysis
+- [ ] Space and Time Complexity Analysis
     - - [ ] Introduction
     - - [ ] Comparion of various cases
     - - [ ] Solving Linear Recurrence Relations
@@ -68,7 +68,7 @@
     - - [ ] Space Complexity 
     - - [ ] Memory Allocation of various languages
     - - [ ] NP Completeness and Hardness
-- [x] Recursion
+- [ ] Recursion
     - - [ ] Introduction
     - - [ ] Why recursion?
     - - [ ] Flow of recursive programs - stacks
@@ -78,7 +78,7 @@
     - - [ ] Sorting:
         - - [ ] Merge Sort
         - - [ ] Quick Sort
-    - - [x] Backtracking
+    - - [ ] Backtracking
         - - [ ] Sudoku Solver
         - - [ ] N-Queens
         - - [ ] N-Knights
@@ -88,7 +88,7 @@
     - - [ ] Recursion Pattern Problems
     - - [ ] Subset Questions
     - - [ ] Recursion - Permutations, Dice Throws etc Questions
-- [x] Object Oriented Programming
+- [ ] Object Oriented Programming
     - - [ ] Introduction
     - - [ ] Classes & its instances
     - - [ ] this keyword in Java
@@ -105,7 +105,7 @@
     - - [ ] Singleton Class
     - - [ ] final, finalize, finally
     - - [ ] Exception Handling
-- [x] Linked List
+- [ ] Linked List
     - - [ ] Introduction
     - - [ ] Singly and Doubly Linked List
     - - [ ] Circular Linked List
@@ -113,7 +113,7 @@
     - - [ ] Cycle Detection
     - - [ ] Reversing of LinekdList
     - - [ ] Linked List Interview questions
-- [x] Stacks & Queues
+- [ ] Stacks & Queues
     - - [ ] Introduction
     - - [ ] Interview problems
     - - [ ] Push efficient
