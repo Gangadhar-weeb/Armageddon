@@ -6,7 +6,7 @@
   - - [ ] Types of languages
   - - [ ] Memory management
 - [ ] Flow of the program
-  - - [] Flowcharts 
+  - - [ ] Flowcharts 
   - - [ ] Pseudocode
 - [ ] Introduction to Java
   - - [ ] Introduction
@@ -36,7 +36,7 @@
     - - [ ] Bubble Sort
     - - [ ] Cyclic Sort (Merge sort etc after recursion)
   - [ ] Searching 
-    - - [] Linear Search
+    - - [ ] Linear Search
     - - [ ] Binary Search
     - - [ ] Modified Binary Search
     - - [ ] Binary Search Interview questions
